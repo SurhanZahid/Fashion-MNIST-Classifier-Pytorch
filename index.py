@@ -195,7 +195,7 @@ ps = F.softmax(logits, dim=1)
 view_classify(img.view(1, 28, 28), ps,version='Fashion')
 
 
-# Now lets test our with testt data
+# Now lets test our with test data
 images, labels = next(iter(testloader))
 
 img = images[1].view(1, 784)
