@@ -1,13 +1,14 @@
 # Fashion MNIST Classification
+<p align="center">
+  <img width="960" height="300" src="https://user-images.githubusercontent.com/32094006/51413862-16034900-1b92-11e9-8d02-02697ccfa7f0.png">
+</p>
 
+### Description
 I was studying a course on udacity they gave a task to classify different fashion images and also train the model to get the maximum
 accuracy.I was able to achive accuracy up to 97% to 98% with this model. 
 
 ### Fashion MNIST
-<p align="center">
-  <img width="960" height="300" src="https://user-images.githubusercontent.com/32094006/51413862-16034900-1b92-11e9-8d02-02697ccfa7f0.png">
-</p>
-ashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Zalando intends Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.You can read more about this at [Kaggle]
+Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Zalando intends Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.You can read more about this at [Kaggle]
 
 
 ### Tech
