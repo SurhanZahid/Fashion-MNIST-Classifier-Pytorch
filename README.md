@@ -21,7 +21,6 @@ Fashion MNIST Classification uses a number of open source projects to work prope
 * [torchvision] - The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision
 * [python] - Python is an interpreted, high-level, general-purpose programming language
 
-And of course Photo Gallery itself is open source .
 
 ### Requirments
 <ol>
